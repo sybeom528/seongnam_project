@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.DS_Store
 
 # Virtual environments
 .venv
@@ -26,3 +27,7 @@ __pycache__/
 CLAUDE.md
 context_packet.json
 log.md
+
+# Google API Secrets
+client_secrets.json
+**/client_secrets.json
