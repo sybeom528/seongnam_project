@@ -21,3 +21,8 @@ __pycache__/
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+
+# Claude 파일
+CLAUDE.md
+context_packet.json
+log.md
