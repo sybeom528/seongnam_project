@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 데이터 파일 제외
+*.csv
+*.parquet
+ 
+# Jupyter 임시 파일
+.ipynb_checkpoints/
+__pycache__/
+ 
+# Word 임시 파일
+~$*.docx
+~$*.xlsx
+~$*.pptx
